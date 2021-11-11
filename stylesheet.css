@@ -183,6 +183,51 @@ line-height: 19px;
 
 color: #000000;
 }
-div div div img{
+.mask{
     padding-right: 16px;
 }
+/* SOCIAL BUTTON */
+.SI-1{
+    border: 1px solid black;
+    background: none;
+    margin: -3px;
+    padding: 10px 29px;
+   
+    
+}
+
+#SIF-1{
+    padding-left: 5px;
+}
+
+#SIT-1{
+    padding-left: 5px;
+}
+/* CONTENT 1 */
+#content-1{
+font-family: New York Medium;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 170%;
+/* or 34px */
+
+
+color: #000000;
+}
+
+/* COM+NTENT-2 HEADING */
+#b-h{
+    font-family: SF Pro Display Regular;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 160%;
+/* or 51px */
+
+
+color: #000000;
+
+}
+
+
