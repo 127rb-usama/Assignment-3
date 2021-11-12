@@ -186,7 +186,7 @@ color: #000000;
 .mask{
     padding-right: 16px;
 }
-/* SOCIAL BUTTON */
+/* SOCIAL BUTTON ----------------------------------------*/
 .SI-1{
     border: 1px solid black;
     background: none;
@@ -203,7 +203,7 @@ color: #000000;
 #SIT-1{
     padding-left: 5px;
 }
-/* CONTENT 1 */
+/* CONTENT 1 ---------------------------------------------*/
 #content-1{
 font-family: New York Medium;
 font-style: normal;
@@ -216,7 +216,7 @@ line-height: 170%;
 color: #000000;
 }
 
-/* COM+NTENT-2 HEADING */
+/* COM+NTENT-2 HEADING --------------------------------------*/
 #b-h{
     font-family: SF Pro Display Regular;
 font-style: normal;
@@ -230,4 +230,188 @@ color: #000000;
 
 }
 
+/* content 2 -------------------------------------------------*/
+#content-2{
+    font-family: New York Medium;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 170%;
+/* or 34px */
 
+
+color: #000000;
+    }
+
+    /* img main 2 */
+    #img-2{
+        width: 115%;
+        height: 100%;
+    }
+/* content-3  -----------------------------------------------*/
+#content-3{
+    font-family: New York Medium;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 170%;
+/* or 34px */
+
+
+color: #000000;
+}
+/* LIST -----------------------------------------------------*/
+#list{
+    font-family: New York Medium;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 170%;
+/* identical to box height, or 34px */
+
+
+color: #000000;
+
+} 
+
+.li{
+    font-family: New York Medium;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 170%;
+/* or 34px */
+
+
+color: #000000;
+}
+/* CONTENT-4 ----------------------------------------------------*/
+.content-4{
+    font-family: New York Medium;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 170%;
+/* or 34px */
+
+
+color: #000000;
+}
+
+.SI-2{
+    opacity: 80%;
+    border: 1px solid black;
+    background: none;
+    margin: -3px;
+    padding: 13px  58px;
+    font-family: SF Pro Display Regular;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 160%;
+/* identical to box height, or 26px */
+
+
+color: #000000;
+   
+    
+}
+#SI-2-1{
+    border-right: 0px;
+}
+
+#SIF-2{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+#SIT-2{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+/* BLOG Tags ---------------------------------------------------*/
+.tag{
+ 
+ font-family: SF Pro Display Regular;
+ font-style: normal;
+ font-weight: 500;
+ font-size: 16px;
+ line-height: 19px;
+ /* identical to box height ------------------------------------*/
+ 
+ letter-spacing: 0.03em;
+ 
+ color: #0C0C0C;
+ 
+}
+/* Dotted line -------------------------------------------------*/
+.dashed{
+    
+    border-bottom: 1px dashed #000000;
+}
+/* BLOG Writer and about ------------------------------------- */
+.mask-2{
+    
+        padding-right: 16px;
+        padding-top: 9px;
+    
+}
+.info{
+    font-family: SF Pro Display Regular;
+font-style: normal;
+
+font-size: 16px;
+line-height: 160%;
+/* or 26px */
+
+letter-spacing: 0.05em;
+/* text-transform: uppercase; */
+
+color: #0C0C0C;
+}
+/* eyes line -------------------------------------------------*/
+.eyes-line{
+    
+    border-bottom: 1px solid #000000;
+}
+.eyes{
+    position: relative;
+    top: 28px;
+}
+/* what to read next------------------------------------------- */
+.read{
+    font-family: New York Extra Large;
+font-style: normal;
+font-weight: bold;
+font-size: 44px;
+line-height: 53px;
+/* identical to box height */
+
+text-align: center;
+
+color: #000000;
+}
+.img-text{
+    font-family: SF Pro Display Regular;
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 120%;
+/* or 26px */
+
+text-align: center;
+
+color: #000000;
+}
+/* NEWS latter--------------------------------------------- */
+.newsletter-padding{
+    padding-top: 114px;
+}
+.newsletter{
+    border-width: 7px 1px 1px 1px;
+    background: #FFFFFF;
+    border-style:  solid;
+    border-color: #000000;
+    box-sizing: border-box;
+    border-radius: 3px;
+}
